@@ -1,0 +1,10 @@
+
+Name: FOOD 
+Quantity: 10 
+Quality: 1
+Name: FOOD 
+Quantity: 3 
+Quality: 2
+Name: MAP 
+Quantity: 10 
+Quality: 2
